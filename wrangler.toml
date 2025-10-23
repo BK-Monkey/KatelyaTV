@@ -52,7 +52,3 @@ environment = { NODE_VERSION = "18" }
 name = "NPM_FLAGS"
 value = "--prefix=/opt/buildhome/.asdf/installs/nodejs/18.17.1/.npm"
 
-[[d1_databases]]
-binding = "DB"  # 在您的代码中使用的变量名
-database_name = "katelyatv-db"
-database_id = "8665ac5b-2b61-4672-8f41-e4dda1aec48d"
